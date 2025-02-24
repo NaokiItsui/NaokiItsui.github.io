@@ -1,17 +1,23 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+- name: Naoki Itsui
+  photo: selfie.png
+  info: Master student at the University of Tokyo
+  email: b210831@hiroshima-u.ac.jp
+  home: https://oka.issp.u-tokyo.ac.jp/index_eng.htm
+  github: https://github.com/NaokiItsui
+  # scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  twitter: https://x.com
+  # researchgate: https://www.researchgate.net/
+  # cv: cv/cv.pdf
+
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      " <u>Apr. 2025 - </u> <br> Master student, Department of Physics, Graduate School of Science, the University of Tokyo, Japan (current) <br>
+        Supervisor: Takashi Oka ",
+      " <u>Apr. 2021 - Mar. 2025</u> <br> Undergraduate student, Department of Physics, Faculty of Science, Hiroshima University, Japan <br>
+       Supervisor: Yasuhiro Tada ",
+      " <u>Apr. 2018 - Mar. 2021</u> <br> Kasukabe High School, Saitama, Japan ",
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["Master student at the University of Tokyo (Oka group)"]

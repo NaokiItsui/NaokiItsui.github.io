@@ -5,28 +5,37 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome!
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
+### <font face="Comic Sans MS">Welcome to Naoki Itsui’s HP</font><br/>
 
-<div class="container">
-<div class="row">
-<center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
-</center>
-</div>
-</div>
-<br/>
+#### Profile
+<ul>
+  <li> Master student at the Department of Physics, Graduate School of Science, the University of Tokyo
+  (<a href="https://oka.issp.u-tokyo.ac.jp/index_eng.htm" target="_blank">
+        Oka group
+    </a>)  </li>
+  <li>Current Supervisor: Prof. Takashi Oka</li>
+  <li>Email: b210831_at_hiroshima-u.ac.jp ( _at_ → @ )</li>
+  <li>Japanese name: 伍井 直輝 (いついなおき)</li>
+</ul>
 
-### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+
+#### Education
+<ul>
+    <i class="fa fa-graduation-cap fa-1x" aria-hidden="true"></i> B.S. Physics, 2025, Hiroshima University, Japan
+</ul>
+
+
+#### Research Interests
+<ul>
+    <i class="fa fa-book" aria-hidden="true"></i>  Topological insulators and semimetals  <br>
+    <i class="fa fa-book" aria-hidden="true"></i>  Higher-order topological insulators and semimetals  <br>
+    <i class="fa fa-book" aria-hidden="true"></i>  Axion electrodynamics in condensed matter <br>
+    <i class="fa fa-book" aria-hidden="true"></i>  Physics under a strong magnetic field <br>
+    <i class="fa fa-book" aria-hidden="true"></i>  Quantum geometry  <br>
+</ul>
+
+
+
+

@@ -24,10 +24,21 @@ permalink: /talks/
 
 <div class="jumbotron">
 ### Invited talks
-{% bibliography --query @incollection[keywords ^= invited] %}
+
 </div>
 
 <div class="jumbotron">
 ### Regular talks
-{% bibliography --query @incollection[keywords != invited] %}
+<ul>
+    <li> <u>Naoki Itsui</u>, Topological Properties of Non-Periodic Kronig-Penney Model, Quantum System Unit weekly group seminar, OIST (August 2nd, 2024)
+    [<a href="..\papers\OIST_Research_Slide.pdf" target="_blank">
+        Slide
+    </a>]
+    </li>
+     <li> <u>伍井直輝</u>, Monte Carlo法を用いたKosterlitz-Thouless転移の解析, 第6 回サマーチャレンジ世代間交流会, 高エネルギー加速器研究機構 (2023年2月24日)
+     [<a href="..\papers\SummerChallengeTalk_KT_transition_.pdf" target="_blank">
+        Slide
+    </a>]
+    </li>
+</ul>
 </div>
