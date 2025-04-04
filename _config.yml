@@ -1,6 +1,6 @@
 # Site settings
 title: Naoki Itsui / Master Student
-email: b210831@hiroshima-u.ac.jp
+email: naoki.itsui_at_issp.u-tokyo.ac.jp
 description: Academic webpage of Naoki Itsui
 baseurl: ""
 url: ""
@@ -25,7 +25,7 @@ location: >
   Chiba, Japan, 277-8581
 
 contact: >
-  <a href="mailto:b210831@hiroshima-u.ac.jp" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Naoki via email</a> <br/>
+  <a href="mailto:naoki.itsui@issp.u-tokyo.ac.jp" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Naoki via email</a> <br/>
   <a href="https://github.com/sbryngelson/academic-website-template" target="_blank"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar

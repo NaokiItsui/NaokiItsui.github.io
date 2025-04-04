@@ -15,7 +15,7 @@ permalink: /
         Oka group
     </a>)  </li>
   <li>Current Supervisor: Prof. Takashi Oka</li>
-  <li>Email: b210831_at_hiroshima-u.ac.jp ( _at_ → @ )</li>
+  <li>Email: naoki.itsui_at_issp.u-tokyo.ac.jp ( _at_ → @ )</li>
   <li>Japanese name: 伍井 直輝 (いつい なおき)</li>
 </ul>
 
@@ -30,8 +30,8 @@ permalink: /
 #### Research Interests
 <ul>
     <i class="fa fa-book" aria-hidden="true"></i>  Topological insulators and semimetals  <br>
-    <i class="fa fa-book" aria-hidden="true"></i>  Higher-order topological insulators and semimetals  <br>
     <i class="fa fa-book" aria-hidden="true"></i>  Axion electrodynamics in condensed matter <br>
+    <i class="fa fa-book" aria-hidden="true"></i>  Non-equilibrium quantum many body systems <br>
     <i class="fa fa-book" aria-hidden="true"></i>  Physics under a strong magnetic field <br>
     <i class="fa fa-book" aria-hidden="true"></i>  Quantum geometry  <br>
 </ul>
