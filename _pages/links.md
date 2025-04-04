@@ -1,9 +1,11 @@
 ---
 title: "Link"
-layout: page
+layout: gridlay
 sitemap: false
 permalink: /links/
 ---
+
+## Links
 
 <ul>
     <li> <a href="https://www.issp.u-tokyo.ac.jp/index_en.html" target="_blank">

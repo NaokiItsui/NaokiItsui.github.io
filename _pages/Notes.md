@@ -16,6 +16,8 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 }
 </style>
 
+## Notes
+
 <div class="jumbotron">
 ### Review notes
 
@@ -55,7 +57,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
         Yasuhiro Tada
     </a> <br>
    <span style="font-size: 1.25em; font-weight: bold;">Abstracts:</span>
-    In this thesis, we study Electromagnetic Responses of 3D Topological Insulators by constructing a topological field theory that describe topological responses of 3D topological insulators and finally, we discuss how to realize Axion electrodynamics in condensed matter systems. <br>
+    In this thesis, we study electromagnetic responses of 3D Topological Insulators by constructing a topological field theory that describe topological responses of 3D topological insulators and finally, we discuss how to realize Axion electrodynamics in condensed matter systems. <br>
     [<a href="..\papers\BachelorThesis__ShortOral.pdf" target="_blank">
         Slide
     </a>],

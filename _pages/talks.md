@@ -22,6 +22,8 @@ permalink: /talks/
 }
 </style>
 
+## Talks
+
 <div class="jumbotron">
 ### Invited talks
 

@@ -16,7 +16,7 @@ permalink: /
     </a>)  </li>
   <li>Current Supervisor: Prof. Takashi Oka</li>
   <li>Email: b210831_at_hiroshima-u.ac.jp ( _at_ → @ )</li>
-  <li>Japanese name: 伍井 直輝 (いついなおき)</li>
+  <li>Japanese name: 伍井 直輝 (いつい なおき)</li>
 </ul>
 
 
