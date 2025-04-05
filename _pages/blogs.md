@@ -27,7 +27,7 @@ permalink: /blogs/
 
 <ul>
     <li><u> Nov. 17, 2024</u>:
-        <a href="https://qiita.com/naoki_condensed_matter/private/494305ef78b58a37ca6a" target="_blank">
+        <a href="https://qiita.com/itsui_physics/items/494305ef78b58a37ca6a" target="_blank">
         物理系外部院試体験記
     </a>  <br>
     広島大学から外部の大学院を受けたので、その体験談を書きました。
