@@ -32,7 +32,12 @@ permalink: /talks/
 <div class="jumbotron">
 ### Regular talks
 <ul>
-    <li> <u>Naoki Itsui</u>, Topological Properties of Non-Periodic Kronig-Penney Model, Quantum System Unit weekly group seminar, OIST (August 2nd, 2024)
+    <li> <u>Naoki Itsui</u>, Electromagnetic Responses of 3D Topological Insulators and Axion Electrodynamics in Condensed Matter Systems, group meeting at Oka group, ISSP (April 18, 2025)
+    [<a href="..\papers\ElectromagneticResponse3DTIs_HP.pdf" target="_blank">
+        Slide
+    </a>]
+    </li>
+    <li> <u>Naoki Itsui</u>, Topological Properties of Non-Periodic Kronig-Penney Model, Quantum System Unit weekly group seminar, OIST (August 2, 2024)
     [<a href="..\papers\OIST_Research_Slide.pdf" target="_blank">
         Slide
     </a>]
