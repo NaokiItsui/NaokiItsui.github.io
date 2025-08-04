@@ -47,14 +47,13 @@ permalink: /about/
   </ul>
 </div>
 
-
-
 <div class="jumbotron">
-  <h3>Fellowship</h3>
-  <!-- <ul>
-    <li> <u>Apr. 2025 - </u> <br> FoPM??? </li>
-  </ul> -->
+  <h3>Award</h3>
+  <ul>
+     <li> ポスター賞, 第70回物性若手夏の学校 []
+  </ul>
 </div>
+
 
 
 
