@@ -50,7 +50,7 @@ permalink: /about/
 <div class="jumbotron">
   <h3>Award</h3>
   <ul>
-     <li> ポスター賞, 第70回物性若手夏の学校, 2025年8月 [<a href="https://cmpss.jp/" target="_blank" rel="noopener noreferrer">Link</a>]
+     <li> ポスター賞, 第70回物性若手夏の学校, 2025年8月 [<a href="https://cmpss.jp/" target="_blank" rel="noopener noreferrer">Link</a>] </li>
   </ul>
 </div>
 
