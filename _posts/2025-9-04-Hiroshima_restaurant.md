@@ -9,7 +9,7 @@ abstract: "2025年秋の日本物理学会が広島であります。私は広�
 <!-- 目次を作りたい -->
 
 
-### 東広島エリア（広島大学周辺）
+#### 東広島エリア（広島大学周辺）
 
 広島大学がある西条は日本酒が有名なので、飲んでみたほうがいいかも。
 
@@ -26,6 +26,7 @@ abstract: "2025年秋の日本物理学会が広島であります。私は広�
 お好み焼き屋。行ったことない。
 
 * [パパ吉](https://www.google.com/maps/place/%E5%B1%85%E9%85%92%E5%B1%8B%E7%84%A1%E5%9B%BD%E7%B1%8D%E6%96%99%E7%90%86%E5%BA%97+DINING+BAR+%E3%81%B1%E3%81%B1%E5%90%89/@34.4072461,132.713259,17z/data=!3m1!4b1!4m6!3m5!1s0x35506fd06fe5a0c3:0xba32cfffd23ad8f0!8m2!3d34.4072421!4d132.7156133!16s%2Fg%2F1tz73skr?entry=ttu&g_ep=EgoyMDI1MDkwMi4wIKXMDSoASAFQAw%3D%3D)
+
 * [てしお](https://www.google.com/maps/place/%E6%97%A8%E3%82%82%E3%82%93%E3%82%84+%E3%81%A6%E3%81%97%E3%81%8A/@34.4097671,132.7120594,18.56z/data=!4m6!3m5!1s0x35506f056cd44883:0x7d8dceea63a3e4a5!8m2!3d34.4098207!4d132.713386!16s%2Fg%2F11j4w3j2_2?entry=ttu&g_ep=EgoyMDI1MDkwMi4wIKXMDSoASAFQAw%3D%3D)
 ：埋まりやすい。
 
@@ -48,7 +49,7 @@ abstract: "2025年秋の日本物理学会が広島であります。私は広�
 ：とんこつラーメン屋。元バイト先。
 
 
-### 広島市エリア
+#### 広島市エリア
 
 * [ekie](https://www.minamoa-ekie.jp/shop/restaurant)
 広島駅の1階のレストラン街で色々ある。
