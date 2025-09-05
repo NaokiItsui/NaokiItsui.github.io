@@ -23,7 +23,7 @@ abstract: "2025年秋の日本物理学会が広島であります。私は広�
 ：お好み焼き。
 
 * [栞](https://www.google.com/maps/place/%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D+%E6%A0%9E/@34.4082379,132.7109229,16.96z/data=!3m1!5s0x35506fda46d9aeb5:0x74e9cc6b5b1c9ab9!4m10!1m2!2m1!1z5qCe!3m6!1s0x35506fda472de773:0xa1964774efa7af8c!8m2!3d34.4100329!4d132.713808!15sCgPmoJ5aBSID5qCekgEWb2tvbm9taXlha2lfcmVzdGF1cmFudKoBPwoJL20vMGY3bWdwEAEqByID5qCeKAgyHhABIhqPsIqZ2cEEgEqs_BAPfmW73GE70aatiQ8SmjIHEAIiA-agnuABAA!16s%2Fg%2F12qg_71lz?entry=ttu&g_ep=EgoyMDI1MDkwMi4wIKXMDSoASAFQAw%3D%3D)
-お好み焼き屋。行ったことない。
+：お好み焼き屋。行ったことない。
 
 * [パパ吉](https://www.google.com/maps/place/%E5%B1%85%E9%85%92%E5%B1%8B%E7%84%A1%E5%9B%BD%E7%B1%8D%E6%96%99%E7%90%86%E5%BA%97+DINING+BAR+%E3%81%B1%E3%81%B1%E5%90%89/@34.4072461,132.713259,17z/data=!3m1!4b1!4m6!3m5!1s0x35506fd06fe5a0c3:0xba32cfffd23ad8f0!8m2!3d34.4072421!4d132.7156133!16s%2Fg%2F1tz73skr?entry=ttu&g_ep=EgoyMDI1MDkwMi4wIKXMDSoASAFQAw%3D%3D)
 
@@ -69,3 +69,13 @@ abstract: "2025年秋の日本物理学会が広島であります。私は広�
 
 
 
+<!-- 外部リンクを新しいタブで開く -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var links = document.querySelectorAll('.post-content a[href^="http"]');
+    links.forEach(function (a) {
+      a.setAttribute('target', '_blank');
+      a.setAttribute('rel', 'noopener noreferrer');
+    });
+  });
+  </script>
