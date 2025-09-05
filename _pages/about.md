@@ -58,7 +58,7 @@ permalink: /about/
 <div class="jumbotron">
   <h3>Fellowship</h3>
   <ul>
-     <li> 統合物質・情報国際卓越大学院プログラム（MERIT-WINGS）, 2025年10月から
+     <li> 統合物質・情報国際卓越大学院プログラム(MERIT-WINGS), 2025年10月から  </li>
   </ul>
 </div>
 
