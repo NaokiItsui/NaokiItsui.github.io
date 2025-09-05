@@ -61,7 +61,7 @@ abstract: "2025年秋の日本物理学会が広島であります。私は広�
 #### 広島市エリア
 
 * [ekie](https://www.minamoa-ekie.jp/shop/restaurant)
-広島駅の1階のレストラン街で色々ある。
+：広島駅の1階のレストラン街で色々ある。
 
 * [オイスターバル](https://www.google.com/maps/place/%E3%82%AA%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%90%E3%83%AB+Steam/@34.3924768,132.4593421,17z/data=!3m1!5s0x355aa20f45c3a2bd:0xc4ca31881910a8e6!4m10!1m2!2m1!1z44Kq44Kk44K544K_44O844OQ44Or44CA5pys6YCa44KK!3m6!1s0x355aa385fb5f0473:0xabbd6fab3a4f47a!8m2!3d34.3930867!4d132.4617287!15sCiHjgqrjgqTjgrnjgr_jg7zjg5Djg6vjgIDmnKzpgJrjgopaIyIh44Kq44Kk44K544K_44O8IOODkOODqyDmnKwg6YCa44KKkgEVb3lzdGVyX2Jhcl9yZXN0YXVyYW50qgFZCg0vZy8xMXZzcGZ5dDg5EAEyHxABIhu16eJWaphITTCZqhAbdqQcnNJRZbrcRC8b6aEyJRACIiHjgqrjgqTjgrnjgr_jg7wg44OQ44OrIOacrCDpgJrjgorgAQA!16s%2Fg%2F11vspfyt89?entry=ttu&g_ep=EgoyMDI1MDkwMi4wIKXMDSoASAFQAw%3D%3D)
 
