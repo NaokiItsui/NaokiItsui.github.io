@@ -6,7 +6,16 @@ categories: ""
 abstract: "2025年秋の日本物理学会が広島であります。私は広島大学出身なので、知り合いから数軒広島でのおすすめの飲食店の問い合わせが来ています。ここでは広大時代の知り合いと相談して広島でのおすすめの飲食店を適当にまとめます。"
 ---
 
-<!-- 目次を作りたい -->
+<!-- 外部リンクを新しいタブで開く -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var links = document.querySelectorAll('.post-content a[href^="http"]');
+    links.forEach(function (a) {
+      a.setAttribute('target', '_blank');
+      a.setAttribute('rel', 'noopener noreferrer');
+    });
+  });
+  </script>
 
 
 #### 東広島エリア（広島大学周辺）
@@ -69,13 +78,3 @@ abstract: "2025年秋の日本物理学会が広島であります。私は広�
 
 
 
-<!-- 外部リンクを新しいタブで開く -->
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    var links = document.querySelectorAll('.post-content a[href^="http"]');
-    links.forEach(function (a) {
-      a.setAttribute('target', '_blank');
-      a.setAttribute('rel', 'noopener noreferrer');
-    });
-  });
-  </script>
