@@ -3,7 +3,7 @@ layout: post
 title: "広島の飲食店"
 date: 2025-9-4
 categories: ""
-abstract: "2025年秋の日本物理学会が広島であります。私は広島大学出身なので、知り合いから数軒広島でのおすすめの飲食店の問い合わせが来ています。ここでは広大時代の知り合いと相談して広島でのおすすめの飲食店を適当にまとめます。"
+abstract: "2025年秋の日本物理学会が広島であります。私は広島大学出身なので、知り合いから数軒広島でのおすすめの飲食店の問い合わせが来ています。ここでは広大時代の知り合いと相談して広島でのおすすめの飲食店を適当にまとめます。全部行ったことあるわけではないので悪しからず。"
 ---
 
 <!-- 外部リンクを新しいタブで開く -->
@@ -42,7 +42,7 @@ abstract: "2025年秋の日本物理学会が広島であります。私は広�
 * [竜馬](https://www.google.com/maps/place/%E9%BE%8D%E9%A6%AC/@34.4063658,132.7114435,18.3z/data=!4m15!1m8!3m7!1s0x14e01926426dddfb:0x612470f40ef90586!2z6b6N6aas!8m2!3d34.4064921!4d132.7124025!10e9!16s%2Fg%2F11b7ft_gdl!3m5!1s0x14e01926426dddfb:0x612470f40ef90586!8m2!3d34.4064921!4d132.7124025!16s%2Fg%2F11b7ft_gdl?entry=ttu&g_ep=EgoyMDI1MDkwMi4wIKXMDSoASAFQAw%3D%3D)
 
 * [次郎丸](https://www.google.com/maps/place/%E6%AC%A1%E9%83%8E%E4%B8%B8/@34.4115409,132.71843,16.33z/data=!4m6!3m5!1s0x35506fc25fc8250d:0xba9918487c2da440!8m2!3d34.4138242!4d132.7199346!16s%2Fg%2F1tdvxq8w?entry=ttu&g_ep=EgoyMDI1MDkwMi4wIKXMDSoASAFQAw%3D%3D)
-少し遠め。
+：少し遠め。
 
 * [とりさぶ](https://www.google.com/maps/place/%E9%B3%A5%E4%B8%89%E9%83%8E+%E8%A5%BF%E6%9D%A1%E4%B8%8B%E8%A6%8B%E5%BA%97/@34.4180541,132.7242901,17z/data=!3m1!4b1!4m6!3m5!1s0x35506feccea9f221:0x4196d7b6fbd844ba!8m2!3d34.4180497!4d132.726865!16s%2Fg%2F1tfttsc_?entry=ttu&g_ep=EgoyMDI1MDkwMi4wIKXMDSoASAFQAw%3D%3D)
 ：個人的に好きだけど遠い。
