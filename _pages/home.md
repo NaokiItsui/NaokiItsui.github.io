@@ -29,11 +29,12 @@ permalink: /
 
 #### Research Interests
 <ul>
+    <i class="fa fa-book" aria-hidden="true"></i>  Quantum spin liquids  <br>
+    <i class="fa fa-book" aria-hidden="true"></i>  Surface acoustic waves  <br>
     <i class="fa fa-book" aria-hidden="true"></i>  Topological insulators and semimetals  <br>
     <i class="fa fa-book" aria-hidden="true"></i>  Axion electrodynamics in condensed matter <br>
-    <i class="fa fa-book" aria-hidden="true"></i>  Non-equilibrium quantum many body systems <br>
     <i class="fa fa-book" aria-hidden="true"></i>  Physics under a strong magnetic field <br>
-    <i class="fa fa-book" aria-hidden="true"></i>  Quantum geometry  <br>
+    <i class="fa fa-book" aria-hidden="true"></i>  Non-equilibrium quantum many body systems <br>
 </ul>
 
 
