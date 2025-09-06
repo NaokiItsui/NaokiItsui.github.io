@@ -28,9 +28,6 @@ permalink: /talks/
 ### Regular talks
 <ul>
     <li> <u>伍井 直輝</u>, 宇田川 将文, 岡 隆史, 表面弾性波用いたキタエフスピン液体の研究, 第70回物性若手夏の学校, (2025年8月)
-    [<a href="..\papers/CMPSS_poster.pdf" target="_blank">
-        Poster
-    </a>]
     </li>
     <li> <u>Naoki Itsui</u>, Electromagnetic Responses of 3D Topological Insulators and Axion Electrodynamics in Condensed Matter Systems, group meeting at Oka group, ISSP (April 18, 2025)
     [<a href="..\papers\ElectromagneticResponse3DTIs_HP.pdf" target="_blank">
