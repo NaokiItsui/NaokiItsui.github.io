@@ -27,7 +27,7 @@ permalink: /talks/
 <div class="jumbotron">
 ### Regular talks
 <ul>
-    <li> <u>伍井 直輝</u>, 宇田川 将文, 岡 隆史, 表面弾性波用いたキタエフスピン液体の研究, 第70回物性若手夏の学校, 2025年8月
+    <li> <u>伍井 直輝</u>, 宇田川 将文, 岡 隆史, 表面弾性波用いたキタエフスピン液体の研究, 第70回物性若手夏の学校, (2025年8月)
     [<a href="..\papers/CMPSS_poster.pdf" target="_blank">
         Poster
     </a>]
@@ -54,10 +54,13 @@ permalink: /talks/
 <div class="jumbotron">
 ### Poster
 <ul>
-    <li> <u>伍井 直輝</u>, 表面弾性波を用いたグラフェンの研究, 第70回物性若手夏の学校, 2025年8月
+    <li> <u>伍井 直輝</u>, 表面弾性波を用いたグラフェンの研究, 第70回物性若手夏の学校, (2025年8月)
     [<a href="..\papers/CMPSS_poster.pdf" target="_blank">
         Poster
-    </a>]  **<span style="color: red;">ポスター賞！</span>**
+    </a>]
+    <br>
+    <span style="color: blue;"><b>ポスター賞！</b></span>
+    </li>
     </li>
 </ul>
 </div>
