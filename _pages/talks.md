@@ -59,8 +59,7 @@ permalink: /talks/
         Poster
     </a>]
     <br>
-    <span style="color: blue;"><b>ポスター賞！</b></span>
-    </li>
+    <span style="color: orange;"><b>ポスター賞！</b></span>
     </li>
 </ul>
 </div>
