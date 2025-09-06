@@ -25,13 +25,13 @@ permalink: /talks/
 ## Talks
 
 <div class="jumbotron">
-### Invited talks
-
-</div>
-
-<div class="jumbotron">
 ### Regular talks
 <ul>
+    <li> <u>伍井 直輝</u>, 宇田川 将文, 岡 隆史, 表面弾性波用いたキタエフスピン液体の研究, 第70回物性若手夏の学校, 2025年8月
+    [<a href="..\papers/CMPSS_poster.pdf" target="_blank">
+        Poster
+    </a>]
+    </li>
     <li> <u>Naoki Itsui</u>, Electromagnetic Responses of 3D Topological Insulators and Axion Electrodynamics in Condensed Matter Systems, group meeting at Oka group, ISSP (April 18, 2025)
     [<a href="..\papers\ElectromagneticResponse3DTIs_HP.pdf" target="_blank">
         Slide
@@ -42,10 +42,22 @@ permalink: /talks/
         Slide
     </a>]
     </li>
-     <li> <u>伍井直輝</u>, Monte Carlo法を用いたKosterlitz-Thouless転移の解析, 第6 回サマーチャレンジ世代間交流会, 高エネルギー加速器研究機構 (2023年2月24日)
+     <li> <u>伍井 直輝</u>, Monte Carlo法を用いたKosterlitz-Thouless転移の解析, 第6回サマーチャレンジ世代間交流会, 高エネルギー加速器研究機構 (2023年2月24日)
      [<a href="..\papers\SummerChallengeTalk_KT_transition_.pdf" target="_blank">
         Slide
     </a>]
+    </li>
+</ul>
+</div>
+
+
+<div class="jumbotron">
+### Poster
+<ul>
+    <li> <u>伍井 直輝</u>, 表面弾性波を用いたグラフェンの研究, 第70回物性若手夏の学校, 2025年8月
+    [<a href="..\papers/CMPSS_poster.pdf" target="_blank">
+        Poster
+    </a>]  **<span style="color: red;">ポスター賞！</span>**
     </li>
 </ul>
 </div>
