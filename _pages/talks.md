@@ -25,9 +25,9 @@ permalink: /talks/
 ## Talks
 
 <div class="jumbotron">
-### Regular talks
+### Oral (English)
 <ul>
-    <li> <u>伍井 直輝</u>, 宇田川 将文, 岡 隆史, 表面弾性波用いたキタエフスピン液体の研究, 第70回物性若手夏の学校, (2025年8月)
+    <li> <u>Naoki Itsui</u>, Masafumi Udagawa, Takashi Oka, Kitaev Quantum Spin Liquid Driven by Surface Acoustic Waves, Short talk of 9th Intensive Lecture Series, RIKEN (November 19, 2025)
     </li>
     <li> <u>Naoki Itsui</u>, Electromagnetic Responses of 3D Topological Insulators and Axion Electrodynamics in Condensed Matter Systems, group meeting at Oka group, ISSP (April 18, 2025)
     [<a href="..\papers\ElectromagneticResponse3DTIs_HP.pdf" target="_blank">
@@ -39,7 +39,17 @@ permalink: /talks/
         Slide
     </a>]
     </li>
-     <li> <u>伍井 直輝</u>, Monte Carlo法を用いたKosterlitz-Thouless転移の解析, 第6回サマーチャレンジ世代間交流会, 高エネルギー加速器研究機構 (2023年2月24日)
+</ul>
+</div>
+
+<div class="jumbotron">
+### Oral (日本語)
+<ul>
+    <li> <u>伍井 直輝</u>, 宇田川 将文, 岡 隆史, 表面弾性波用いたキタエフスピン液体の研究, 日本物理学会第80回年次大会, 広島大学 (2025年9月)
+    </li>
+    <li> <u>伍井 直輝</u>, 宇田川 将文, 岡 隆史, 表面弾性波用いたキタエフスピン液体の研究, 第70回物性若手夏の学校, 滋賀県 (2025年8月)
+    </li>
+    <li> <u>伍井 直輝</u>, Monte Carlo法を用いたKosterlitz-Thouless転移の解析, 第6回サマーチャレンジ世代間交流会, 高エネルギー加速器研究機構 (2023年2月24日)
      [<a href="..\papers\SummerChallengeTalk_KT_transition_.pdf" target="_blank">
         Slide
     </a>]
@@ -49,7 +59,17 @@ permalink: /talks/
 
 
 <div class="jumbotron">
-### Poster
+### Poster (English)
+<ul>
+    <li> <u>Naoki Itsui</u>, Masafumi Udagawa, Takashi Oka, Kitaev Quantum Spin Liquid Driven by Surface Acoustic Waves, New Frontiers of Geometry and Topology in Condensed Matter Physics, ISSP (January 28, 2026)
+    </li>
+    <li> <u>Naoki Itsui</u>, Masafumi Udagawa, Takashi Oka, Kitaev Quantum Spin Liquid Driven by Surface Acoustic Waves, SNU-ISSP Workshop, ISSP (November 21, 2025)
+    </li>
+</ul>
+</div>
+
+<div class="jumbotron">
+### Poster (日本語)
 <ul>
     <li> <u>伍井 直輝</u>, 表面弾性波を用いたグラフェンの研究, 第70回物性若手夏の学校, (2025年8月)
     [<a href="..\papers/CMPSS_poster.pdf" target="_blank">
