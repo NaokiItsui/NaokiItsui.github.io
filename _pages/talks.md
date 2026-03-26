@@ -27,6 +27,9 @@ permalink: /talks/
 <div class="jumbotron">
 ### Oral (English)
 <ul>
+    <li> <u>Naoki Itsui</u>, Masafumi Udagawa, Takashi Oka, Kitaev Quantum Spin Liquid Driven by Surface Acoustic Waves, APS Global Physics Summit, Colorado convention center (March 17, 2026)
+    [<a href="https://summit.aps.org/smt/2026/events/MAR-J30/12" target="_blank">URL</a>]
+    </li>
     <li> <u>Naoki Itsui</u>, Masafumi Udagawa, Takashi Oka, Kitaev Quantum Spin Liquid Driven by Surface Acoustic Waves, Short talk of 9th Intensive Lecture Series, RIKEN (November 19, 2025)
     </li>
     <li> <u>Naoki Itsui</u>, Electromagnetic Responses of 3D Topological Insulators and Axion Electrodynamics in Condensed Matter Systems, group meeting at Oka group, ISSP (April 18, 2025)
